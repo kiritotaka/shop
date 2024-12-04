@@ -86,7 +86,7 @@
         </div>
       </a>
     </div>
-    <v-btn class="mt-5" variant="flat" color="blue-darken-4 "> Shop All </v-btn>
+    <v-btn class="mt-5" variant="flat" color="blue-darken-4 w-1/2 md:w-1/3"> Shop All </v-btn>
     <!-- End Masonry Cards -->
   </div>
   <div class="text-center">
@@ -176,7 +176,7 @@
         </div>
       </a>
     </div>
-    <v-btn class="mt-5" variant="flat" color="blue-darken-4 "> Shop All </v-btn>
+    <v-btn class="mt-5" variant="flat" color="blue-darken-4 w-1/2 md:w-1/3"> Shop All </v-btn>
     <!-- End Masonry Cards -->
   </div>
 </template>
