@@ -10,7 +10,7 @@
           aria-label="Brand"
           >Brand</a
         >
-        <p class="mt-3 text-xs sm:text-sm text-gray-600">© 2024 Preline Labs.</p>
+        <p class="mt-3 text-xs sm:text-sm text-gray-600">© 2024 Shop name.</p>
       </div>
       <!-- End Col -->
 

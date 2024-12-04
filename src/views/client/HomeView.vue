@@ -5,6 +5,7 @@
   <ReviewSectionVue />
   <CommentSectionVue />
   <BlogSectionVue />
+  <TimelineSectionVue />
 </template>
 
 <script>
@@ -14,6 +15,7 @@ import CollectionSectionVue from './Sections/CollectionSection.vue'
 import CommentSectionVue from './Sections/CommentSection.vue'
 import IconSectionVue from './Sections/IconSection.vue'
 import ReviewSectionVue from './Sections/ReviewSection.vue'
+import TimelineSectionVue from './Sections/TimelineSection.vue'
 export default {
   name: 'HomePage',
   components: {
@@ -23,6 +25,7 @@ export default {
     ReviewSectionVue,
     CommentSectionVue,
     BlogSectionVue,
+    TimelineSectionVue,
   },
 }
 </script>
