@@ -1,6 +1,6 @@
 <template>
   <HeaderComponentVue />
-  <div class="max-w-[85rem] min-h-[75rem] mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="max-w-[85rem] min-h-[75rem] mx-auto px-4 sm:px-6 lg:px-8 bg-white">
     <router-view></router-view>
   </div>
   <FooterComponentVue />
