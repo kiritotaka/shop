@@ -19,6 +19,9 @@ import { aliases, fa } from 'vuetify/iconsets/fa'
 import { mdi } from 'vuetify/iconsets/mdi'
 //in it vuetify
 const vuetify = createVuetify({
+  theme: {
+    defaultTheme: 'light',
+  },
   icons: {
     defaultSet: 'mdi',
     aliases,
